@@ -9,11 +9,11 @@
 
 #Wiki about lazarus
 
-<http://wiki.lazarus.freepascal.org/Main_Page>
+[Lazarus wiki home page](http://wiki.lazarus.freepascal.org/Main_Page "Wiki")
 
 #Tutorial
 
-<https://www.tutorialspoint.com/pascal/index.htm>
+[Tutorial](https://www.tutorialspoint.com/pascal/index.htm "Tutorial")
 
 ```
 
