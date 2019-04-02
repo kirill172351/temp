@@ -11,6 +11,9 @@
 
 http://wiki.lazarus.freepascal.org/Main_Page
 
+#Tutorial
+
+https://www.tutorialspoint.com/pascal/index.htm
 
 ```
 
