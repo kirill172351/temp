@@ -6,16 +6,16 @@
 ## Pascal
 
 ``` bash
-
-#Wiki about lazarus
+# Wiki about lazarus
+```
 
 [Lazarus wiki home page](http://wiki.lazarus.freepascal.org/Main_Page "Wiki")
 
-#Tutorial
+``` bash
+# Tutorial
+```
 
 [Tutorial](https://www.tutorialspoint.com/pascal/index.htm "Tutorial")
-
-```
 
 ## License GPL
 
