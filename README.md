@@ -19,6 +19,6 @@
 
 ## License GPL
 
-[Lazarus logo](http://wiki.freepascal.org/images/f/fd/Lazarus-icons-lpr-proposal-bpsoftware.png)
+![Lazarus logo](http://wiki.freepascal.org/images/f/fd/Lazarus-icons-lpr-proposal-bpsoftware.png)
 
 For detailed explanation about IDE go to <https://www.lazarus-ide.org/>
